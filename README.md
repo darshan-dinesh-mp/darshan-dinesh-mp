@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate and dedicated programmer with a strong background in Web Development and Android Development</h3>
 
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 - 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **C, Java, Laravel**
