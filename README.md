@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and dedicated programmer with a strong background in Web Development and Android Development</h3>
 
 <div align="center">
-  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width=100% height=100% frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width=90% frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
 - 🌱 I’m currently learning **Android Development**
