@@ -5,11 +5,13 @@
   <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width=90% frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **C, Java, Laravel**
-
+  
 - 📫 How to reach me **darshandineshmp@gmail.com**
+  
+- 👍 My Portfolio **https://darshandineshmp.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
