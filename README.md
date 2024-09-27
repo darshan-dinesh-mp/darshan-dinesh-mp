@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 💬 Ask me about **C, Java, Laravel**
+- 💬 Ask me about **Programming**
+
+- **Currently learning MERN**
   
 - 📫 How to reach me **darshandineshmp@gmail.com**
   
