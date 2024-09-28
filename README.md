@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate and dedicated programmer with a strong background in Web Development and Android Development.</h3><h3 align="center"> Looking forward to collaborate and learn more about technologies.</h3>
 
-<div align="center">
-  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width=90% frameBorder="0" class="giphy-embed" allowFullScreen></img>
-</div>
-
 - 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **Programming**
