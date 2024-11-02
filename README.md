@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-A passionate and dedicated programmer with a strong background in Web Development and Android Development. Looking forward to collaborating and learning more about technologies.<br><br>💬 Ask me about Programming<br><br>Currently learning MERN<br><br>📫 How to reach me darshandineshmp@gmail.com<br><br>👍 My Portfolio https://darshandineshmp.vercel.app/
+A passionate and dedicated programmer with a strong background in Web Development and Android Development. Looking forward to collaborating and learning more about technologies.<br><br>💬 Ask me about Programming<br><br>Freelancing<br><br>Currently learning MERN<br><br>📫 How to reach me darshandineshmp@gmail.com<br><br>👍 My Portfolio https://darshandineshmp.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-dinesh-mp) 
